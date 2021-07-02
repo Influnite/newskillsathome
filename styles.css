@@ -3,6 +3,11 @@
     margin: 0;
 }
 
+.test {
+    box-sizing: border-box;
+    margin: 0;
+}
+
 body {
     /* font-family: "Roboto", sans-serif; */
     font-family: "Open Sans", sans-serif;
